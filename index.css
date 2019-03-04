@@ -26,3 +26,26 @@ img {
   max-width: 100%;
   margin: 0 auto;
 }
+
+button{
+  background-color: #3dc6d1;
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  border-radius: 15px 0px 15px 0px;
+  border:2px outset #49e7f5;
+  color:yellow;
+  display:block;
+  max-width: auto;
+  height:auto;
+  margin:20px auto;
+  white-space:normal;
+  outline:none;
+  cursor: pointer;
+}
+button:hover{
+  background-color: #3c9da5;
+}
+a{
+  text-decoration: none;
+}
